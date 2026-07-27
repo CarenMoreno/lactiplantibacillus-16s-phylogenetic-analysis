@@ -1,5 +1,16 @@
 # lactiplantibacillus-16s-phylogenetic-analysis
 Comparative phylogenetic analysis of 16S rRNA sequences from Lactiplantibacillus strains isolated from traditional regional cheeses.
+<p align="center">
+  <img src="https://img.shields.io/badge/PyMOL-Molecular%20Visualization-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AlphaFold3-Structure%20Prediction-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Target-Human%20DHFR%20%7C%201U72-8B4513?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cohort-5-E67E22?style=for-the-badge"/>
+</p>
+<p align="center">
+  <em>Biotechnologist and MSc in Bioinformatics – International University of La Rioja (UNIR)</em><br>
+  <strong>Caren Moreno</strong> · Bioinformatics · 2026
+</p>
+
 
 # Comparative Phylogenetic Analysis of Lactiplantibacillus 16S rRNA Sequences
 
