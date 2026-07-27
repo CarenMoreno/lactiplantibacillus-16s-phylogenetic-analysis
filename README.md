@@ -98,4 +98,4 @@ LICENSE
 
 Biotechnologist
 
-M.Sc. Student in Bioinformatics – International University of La Rioja (UNIR)
+M.Sc. Student in Bioinformatics. International University of La Rioja (UNIR)
