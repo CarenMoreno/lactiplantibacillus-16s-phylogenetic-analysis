@@ -1,7 +1,7 @@
 # lactiplantibacillus-16s-phylogenetic-analysis
 Comparative phylogenetic analysis of 16S rRNA sequences from Lactiplantibacillus strains isolated from traditional regional cheeses.
 
-# Comparative Phylogenetic Analysis of Lactiplantibacillus plantarum 16S rRNA Sequences
+# Comparative Phylogenetic Analysis of Lactiplantibacillus 16S rRNA Sequences
 
 Comparative phylogenetic analysis of **Lactiplantibacillus plantarum** strains isolated from traditional regional cheeses using partial 16S rRNA gene sequences deposited in GenBank.
 
