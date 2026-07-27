@@ -7,7 +7,7 @@ Comparative phylogenetic analysis of 16S rRNA sequences from Lactiplantibacillus
   <img src="https://img.shields.io/badge/GenBank-CB12%20OQ107533.1-8E44AD?style=for-the-badge"/>
 </p>
 <p align="center">
-  <em>Biotechnologist and MSc in Bioinformatics – International University of La Rioja (UNIR)</em><br>
+  <em>Biotechnologist and MSc in Bioinformatics - International University of La Rioja (UNIR)</em><br>
   <strong>Caren Moreno</strong> · Bioinformatics · 2026
 </p>
 
