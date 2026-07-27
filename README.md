@@ -83,7 +83,7 @@ LICENSE
 
 ## Author
 
-**Caren Nicole Moreno**
+**Caren Moreno**
 
 Biotechnologist
 
