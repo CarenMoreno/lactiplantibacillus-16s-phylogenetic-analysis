@@ -87,6 +87,4 @@ LICENSE
 
 Biotechnologist
 
-M.Sc. Student in Bioinformatics – Universidad Internacional de La Rioja (UNIR)
-
-CONICET Doctoral Fellow
+M.Sc. Student in Bioinformatics – International University of La Rioja (UNIR)
