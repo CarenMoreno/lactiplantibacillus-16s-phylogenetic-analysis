@@ -65,6 +65,34 @@ Biological interpretation
 ## Repository Structure
 
 ```text
+lactiplantibacillus-16s-phylogeny
+│
+├── README.md
+│
+├── data
+│   ├── raw_sequences
+│   ├── aligned_sequences
+│
+├── results
+│   ├── blast_results
+│   ├── identity_matrix
+│   ├── phylogenetic_tree
+│   ├── sequence_logo
+│
+├── figures
+│   ├── phylogenetic_tree.png
+│   ├── sequence_logo.png
+│   ├── heatmap_identity.png
+│
+├── scripts
+│   ├── sequence_download.py
+│   ├── alignment.R
+│   ├── phylogeny.R
+│
+└── report
+    └── final_report.pdf
+
+
 data/
 results/
 figures/
