@@ -92,8 +92,7 @@ lactiplantibacillus-16s-phylogeny
 └── report
     └── final_report.pdf
 
-
-data/
+/
 results/
 figures/
 scripts/
