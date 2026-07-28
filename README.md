@@ -92,7 +92,6 @@ lactiplantibacillus-16s-phylogeny
 └── report
     └── final_report.pdf
 
-.md
 LICENSE
 ```
 
