@@ -118,3 +118,114 @@ lactiplantibacillus-16s-phylogeny
 Biotechnologist
 
 M.Sc. Student in Bioinformatics. International University of La Rioja (UNIR)
+
+
+
+# Comparative Phylogenetic Analysis of Lactiplantibacillus plantarum 16S rRNA Sequences
+
+Comparative phylogenetic analysis of **Lactiplantibacillus plantarum** strains isolated from traditional regional cheeses, using partial 16S rRNA gene sequences deposited in GenBank.
+
+This repository documents a bioinformatics workflow for sequence retrieval, multiple sequence alignment, molecular characterization and phylogenetic inference.
+
+---
+
+## Project Status
+
+Work in progress. This repository is being expanded with additional analyses and visualizations.
+
+---
+
+## Research Context
+
+The analyzed strains were isolated from traditional regional cheeses and characterized during the author's undergraduate research in Biotechnology. Strains **CB2** and **CB12** were used in that thesis work on the bile acid stress response of lactic acid bacteria.
+
+The corresponding 16S rRNA sequences are publicly available in GenBank and are the starting point for this phylogenetic analysis.
+
+---
+
+## Sequence Citation
+
+The 16S rRNA partial sequences analyzed here were deposited in GenBank by:
+
+Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
+
+| Strain | GenBank Accession | Used in thesis |
+|--------|-------------------|-----------------|
+| CB2    | OQ107531.1         | yes             |
+| CB11   | OQ107532.1         | no              |
+| CB12   | OQ107533.1         | yes             |
+| CB13   | OQ107534.1         | no              |
+| CB14   | OQ107535.1         | no              |
+| CB17   | OQ107536.1         | no              |
+
+---
+
+## Planned Workflow
+
+```text
+GenBank sequences
+        │
+        ▼
+Sequence quality assessment
+        │
+        ▼
+Multiple sequence alignment (MUSCLE / Clustal Omega)
+        │
+        ▼
+Phylogenetic tree reconstruction
+        │
+        ▼
+Sequence similarity analysis
+        │
+        ▼
+Genetic diversity analysis
+        │
+        ▼
+Biological interpretation
+```
+
+---
+
+## Repository Structure
+
+```text
+data/
+  raw_sequences/
+  aligned_sequences/
+results/
+  blast_results/
+  identity_matrix/
+  phylogenetic_tree/
+  sequence_logo/
+figures/
+scripts/
+report/
+README.md
+LICENSE
+```
+
+---
+
+## Figures
+
+### Study overview
+
+<p align="center">
+<img src="figures/workflow.png" width="750">
+</p>
+
+### Phylogenetic tree
+
+<p align="center">
+<img src="figures/phylogenetic_tree.png" width="750">
+</p>
+
+---
+
+## Author
+
+**Caren Nicole Moreno**
+
+Biotechnologist
+
+M.Sc. Student in Bioinformatics – Universidad Internacional de La Rioja (UNIR)
