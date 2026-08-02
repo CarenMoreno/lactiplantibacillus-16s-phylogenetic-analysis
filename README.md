@@ -229,3 +229,20 @@ LICENSE
 Biotechnologist
 
 M.Sc. Student in Bioinformatics – Universidad Internacional de La Rioja (UNIR)
+
+## Sequence Citation
+
+The 16S rRNA partial sequences analyzed in this repository were deposited in GenBank by:
+
+Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
+
+| Strain | GenBank Accession |
+|--------|-------------------|
+| CB2    | OQ107531.1         |
+| CB11   | OQ107532.1         |
+| CB12   | OQ107533.1         |
+| CB13   | OQ107534.1         |
+| CB14   | OQ107535.1         |
+| CB17   | OQ107536.1         |
+
+Strains **CB2** and **CB12** were used in the author's undergraduate thesis on bile acid stress response in lactic acid bacteria.
