@@ -245,4 +245,4 @@ Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
 | CB14   | OQ107535.1         |
 | CB17   | OQ107536.1         |
 
-Strains **CB2** and **CB12** were used in the
+Strains **CB2** and **CB12** were used in
