@@ -241,4 +241,4 @@ Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
 | CB2    | OQ107531.1         |
 | CB11   | OQ107532.1         |
 | CB12   | OQ107533.1         |
-| CB
+|
