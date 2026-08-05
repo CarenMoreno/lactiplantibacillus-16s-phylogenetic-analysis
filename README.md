@@ -239,4 +239,4 @@ Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
 | Strain | GenBank Accession |
 |--------|-------------------|
 | CB2    | OQ107531.1         |
-| CB11   | OQ
+| CB11   
