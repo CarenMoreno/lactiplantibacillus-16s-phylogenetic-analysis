@@ -243,4 +243,3 @@ Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
 | CB12   | OQ107533.1         |
 | CB13   | OQ107534.1         |
 | CB14   | OQ107535.1         |
-| CB17     
