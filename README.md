@@ -237,3 +237,147 @@ The 16S rRNA partial sequences analyzed in this repository were deposited in Gen
 Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
 
 | Strain | GenBank Accession |
+
+# Comparative Phylogenetic Analysis of Lactiplantibacillus plantarum 16S rRNA Sequences
+
+Comparative phylogenetic analysis of **Lactiplantibacillus plantarum** strains isolated from traditional regional cheeses, using partial 16S rRNA gene sequences deposited in GenBank.
+
+This repository documents a bioinformatics workflow for sequence retrieval, multiple sequence alignment, molecular characterization and phylogenetic inference, run in parallel with R and Python for methodological comparison.
+
+---
+
+## Project Status
+
+Work in progress. Local strain analysis (alignment, phylogeny, identity matrix, sequence logo) is complete. The global phylogenetic tree with international reference strains is being finalized.
+
+---
+
+## Research Context
+
+The analyzed strains were isolated from traditional regional cheeses and characterized during the author's undergraduate research in Biotechnology. Strains **CB2** and **CB12** were used in that thesis work on the bile acid stress response of lactic acid bacteria.
+
+The corresponding 16S rRNA sequences are publicly available in GenBank and are the starting point for this phylogenetic analysis.
+
+---
+
+## Sequence Citation
+
+The 16S rRNA partial sequences analyzed here were deposited in GenBank by:
+
+Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
+
+| Strain | GenBank Accession | Used in thesis |
+|--------|-------------------|-----------------|
+| CB2    | OQ107531.1         | yes             |
+| CB11   | OQ107532.1         | no              |
+| CB12   | OQ107533.1         | yes             |
+| CB13   | OQ107534.1         | no              |
+| CB14   | OQ107535.1         | no              |
+| CB17   | OQ107536.1         | no              |
+
+Reference type strains used for the global phylogenetic tree (*Lactiplantibacillus plantarum*, *L. pentosus*, *L. paraplantarum*, and *Levilactobacillus brevis* as outgroup) are listed in `data/raw_sequences/strains_metadata_full.csv`.
+
+---
+
+## Workflow
+
+```text
+GenBank sequences
+        │
+        ▼
+Sequence quality assessment
+        │
+        ▼
+Multiple sequence alignment (MUSCLE / Clustal Omega)
+        │
+        ▼
+Phylogenetic tree reconstruction (Neighbor-Joining)
+        │
+        ▼
+Pairwise identity matrix
+        │
+        ▼
+Sequence logo
+        │
+        ▼
+Global tree with international reference strains
+        │
+        ▼
+Biological interpretation
+```
+
+All steps were implemented independently in R and Python to compare results across tools.
+
+---
+
+## Repository Structure
+
+```text
+data/
+  raw_sequences/
+  aligned_sequences/
+results/
+  identity_matrix/
+  phylogenetic_tree/
+scripts/
+figures/
+report/
+README.md
+LICENSE
+```
+
+---
+
+## Scripts
+
+| Script | Language | Description |
+|--------|----------|-------------|
+| `sequence_download.R` / `sequence_download.py` | R / Python | Download the 6 local strains from GenBank |
+| `alignment_R.R` / `alignment_python.py` | R / Python | Multiple sequence alignment (MUSCLE) |
+| `phylogeny_R.R` / `phylogeny_python.py` | R / Python | Neighbor-Joining tree of local strains |
+| `identity_matrix_R.R` / `identity_matrix_python.py` | R / Python | Pairwise identity matrix and heatmap |
+| `download_global_R.R` / `download_global_python.py` | R / Python | Download local strains plus reference type strains |
+| `alignment_global_R.R` | R | Alignment including reference strains |
+| `phylogeny_global_R.R` | R | Global rooted phylogenetic tree |
+
+WebLogo was run directly from the command line (no dedicated script) to generate the sequence logo.
+
+---
+
+## Figures
+
+### Phylogenetic tree (local strains)
+
+<p align="center">
+<img src="figures/phylogenetic_tree_R.png" width="700">
+</p>
+
+### Pairwise identity heatmap
+
+<p align="center">
+<img src="figures/heatmap_identity_R.png" width="600">
+</p>
+
+### Sequence logo
+
+<p align="center">
+<img src="figures/sequence_logo.png" width="700">
+</p>
+
+### Global phylogenetic tree (with international reference strains)
+
+<p align="center">
+<img src="figures/phylogenetic_tree_global_R.png" width="700">
+</p>
+
+*(pending: final version once reference accession numbers are confirmed)*
+
+---
+
+## Author
+
+**Caren Nicole Moreno**
+
+Biotechnologist
+
+M.Sc. Student in Bioinformatics – Universidad Internacional de La Rioja (UNIR)
