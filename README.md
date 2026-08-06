@@ -237,4 +237,3 @@ The 16S rRNA partial sequences analyzed in this repository were deposited in Gen
 Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
 
 | Strain | GenBank Accession |
-|
