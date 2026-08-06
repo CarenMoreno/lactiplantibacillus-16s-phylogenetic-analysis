@@ -238,6 +238,9 @@ Bustos AY, Sesín AA, Carol Paz JJ, Ledesma AE, Taranto MP.
 
 | Strain | GenBank Accession |
 
+
+
+
 # Comparative Phylogenetic Analysis of Lactiplantibacillus plantarum 16S rRNA Sequences
 
 Comparative phylogenetic analysis of **Lactiplantibacillus plantarum** strains isolated from traditional regional cheeses, using partial 16S rRNA gene sequences deposited in GenBank.
