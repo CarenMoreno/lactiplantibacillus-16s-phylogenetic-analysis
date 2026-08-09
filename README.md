@@ -383,6 +383,6 @@ WebLogo was run directly from the command line (no dedicated script) to generate
 
 **Caren Nicole Moreno**
 
-Biotechno
+Biotech
 
 M.Sc. Student in Bioinformatics – Universidad Internacional de La Rioja (UNIR)
