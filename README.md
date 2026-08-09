@@ -385,4 +385,4 @@ WebLogo was run directly from the command line (no dedicated script) to generate
 
 Biotech
 
-M.Sc. Student Bioinformatics – Universidad Internacional de La Rioja (UNIR)
+M.Sc. Student Bioinformatics – Universidad Internacional de La Rioja (UNI
