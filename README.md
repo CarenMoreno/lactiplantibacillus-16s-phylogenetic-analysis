@@ -385,4 +385,4 @@ WebLogo was run directly from the command line (no dedicated script) to generate
 
 Biotec
 
-M.Sc. Student Bioinformatics – Universidad Inter
+M.Sc. Student Bioinformatics – Universidad Int
