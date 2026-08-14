@@ -383,6 +383,5 @@ WebLogo was run directly from the command line (no dedicated script) to generate
 
 **Caren Nicole Moreno**
 
-Biotec
-
+Biot
 M.Sc. Student Bioinformatics 
