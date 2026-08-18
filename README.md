@@ -383,4 +383,4 @@ WebLogo was run directly from the command line (no dedicated script) to generate
 
 **Caren Nicole Moreno**
 
-M.Sc. St
+M.Sc. S
