@@ -374,6 +374,5 @@ WebLogo was run directly from the command line (no dedicated script) to generate
 <p align="center">
 <img src="figures/phylogenetic_tree_global_R.png" width="700">
 </p>
-
 *(pending: final version once reference accession numbers are confirmed)*
 ---
