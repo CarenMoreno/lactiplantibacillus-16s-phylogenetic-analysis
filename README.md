@@ -358,7 +358,6 @@ WebLogo was run directly from the command line (no dedicated script) to generate
 </p>
 
 ### Pairwise identity heatmap
-
 <p align="center">
 <img src="figures/heatmap_identity_R.png" width="600">
 </p>
