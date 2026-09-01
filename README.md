@@ -375,5 +375,5 @@ WebLogo was run directly from the command line (no dedicated script) to generate
 </p>
 
 *(pending: final version once reference accession numbers are confirmed)
-**
+*
 ---
